@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on improving DSA skills.<br>I do work on Web development and mobile development projects
+Im currently working on improving my DSA skills.<br>I do work on Web development and mobile development projects too!!
 
 
 ## 🌐 Socials:
