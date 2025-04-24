@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im currently working on improving my DSA skills.<br>I do work on Web development and mobile development projects too!!
+Passionate about building intelligent systems with Machine Learning and Gen AI to solve real-world problems.
+Currently exploring LLMs, multi-agentic architectures, vector databases and real-time data pipelines for smart automation.
 
 
 ## 🌐 Socials:
