@@ -107,10 +107,10 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://linkedin.com/in/saamyukkth26)
-[![Kaggle](https://img.shields.io/badge/Kaggle-050510?style=for-the-badge&logo=kaggle&logoColor=a855f7)](https://kaggle.com/saamyukkth26)
-[![Gmail](https://img.shields.io/badge/Gmail-050510?style=for-the-badge&logo=gmail&logoColor=ff3aff)](mailto:saamyukkth26@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050510?style=for-the-badge&logo=firefox&logoColor=00ff99)](https://saamyukkth26.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050510?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/saamyukkth-s-787119222/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-050510?style=for-the-badge&logo=kaggle&logoColor=a855f7)](https://kaggle.com/saamyukkth26https://www.kaggle.com/saamyukkthsuresh)
+[![Gmail](https://img.shields.io/badge/Gmail-050510?style=for-the-badge&logo=gmail&logoColor=ff3aff)](mailto:saamyukkth.s@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050510?style=for-the-badge&logo=firefox&logoColor=00ff99)](https://nextjs-14-full-stack-app-project-1.vercel.app/)
 
 </div>
 
