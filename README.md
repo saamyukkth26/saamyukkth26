@@ -102,29 +102,6 @@ me.say_hi()
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🔮 Featured Projects
-
-<div align="center">
-
-[![NeuralForge](https://github-readme-stats.vercel.app/api/pin/?username=saamyukkth26&repo=neural-forge&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=00ffff&text_color=e0e0ff&icon_color=a855f7)](https://github.com/saamyukkth26)
-[![DataPulse](https://github-readme-stats.vercel.app/api/pin/?username=saamyukkth26&repo=datapulse&theme=midnight-purple&hide_border=true&bg_color=050510&title_color=a855f7&text_color=e0e0ff&icon_color=00ff99)](https://github.com/saamyukkth26)
-
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saamyukkth26&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- CONNECT -->
 ## 🌐 Connect
 
